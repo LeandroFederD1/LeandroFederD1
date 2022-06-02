@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu me chamo Leandro Feder</h1>
 <h3 align="center">Um programador iniciante</h3>
 
-- 🔭 Bot Builder na D1 Smarkio.
+- 🔭 Bot Builder na D1 Jornadas Digitais - A ZENVIA Company..
 
 - 🌱 Atualmente, estou aprendendo a linguagem de programação **JavaScript**.
 
